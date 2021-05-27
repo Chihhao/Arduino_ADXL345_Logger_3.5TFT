@@ -28,8 +28,8 @@ https://github.com/adafruit/Adafruit_TouchScreen
 
 ## 照片  
 ![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/wiring.png)  
-![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/wiring2.png)
-![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/wiring3.png)  
+![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/wiring2.jpg)
+![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/wiring3.jpg)  
 ![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/2.jpg)  
 ![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/3.jpg)  
 ![image](https://github.com/Chihhao/Arduino_ADXL345_Logger_3.5TFT/blob/main/image/4.jpg)  
